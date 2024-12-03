@@ -9,12 +9,12 @@ The application aims to simplify financial management and foster better saving h
 
 | Name                              | Bangkit ID   | Learning Path      | Contacts |                                                              
 | --------------------------------- | ------------ | ------------------ | -------- |
-| Alnino Dio Putera       	    | A204B4KY0411 | Mobile Development | [![Alnino Dio Putera](/contact/LinkedIn.png)](https://www.linkedin.com/in/alninodp/) [![AlninoDP](/contact/Github.png)](https://github.com/AlninoDP)                                                      |
-| Bagus Adhi Nugroho      	    | C128B4KY0792 | Cloud Computing    | [![Bagus Adhi Nugroho](/contact/LinkedIn.png)](https://www.linkedin.com/in/bagus-adhi-nugroho-1b197524b/) [![Velkh](/contact/Github.png)](https://github.com/Velkh)                                   |
-| Ishom Nabil Umran Alihaq 	    | C128B4KY2016 | Cloud Computing    | [![Ishom Nabil Umran Alihaq](/contact/LinkedIn.png)](https://www.linkedin.com/in/ishom-nabil-22282b315/) |
-| Aurel Elviolita Putri    	    | M204B4KX0735 | Machine Learning   | [![Aurel Elviolita Putri](/contact/LinkedIn.png)](https://www.linkedin.com/in/aurel-elviolita-putri) [![Aurelviolita](/contact/Github.png)](https://github.com/Aurelviolita)                            |
-| Siti Riza Fatimah Syafrudin       | M815B4KX4181 | Machine Learning   | [![Siti Riza Fatimah Syafrudin](/contact/LinkedIn.png)](https://www.linkedin.com/in/sitirizafatimahs/) [![SitiRizaFs](/contact/Github.png)](https://github.com/sitirizafs) 		                   |
-| Muhammad Jabir Habibie Batubara   | M453B4KY2922 | Machine Learning   | [![Muhammad Jabir Habibie Batubara](/contact/LinkedIn.png)](https://www.linkedin.com/in/muhammadjabirhabibie/) [![SitiRizaFs](/contact/Github.png)](https://github.com/Bara67) 		           |
+| Alnino Dio Putera       	    | A204B4KY0411 | Mobile Development | [![Alnino Dio Putera](contact/LinkedIn.png)](https://www.linkedin.com/in/alninodp/) [![AlninoDP](contact/Github.png)](https://github.com/AlninoDP)                                                      |
+| Bagus Adhi Nugroho      	    | C128B4KY0792 | Cloud Computing    | [![Bagus Adhi Nugroho](contact/LinkedIn.png)](https://www.linkedin.com/in/bagus-adhi-nugroho-1b197524b/) [![Velkh](contact/Github.png)](https://github.com/Velkh)                                   |
+| Ishom Nabil Umran Alihaq 	    | C128B4KY2016 | Cloud Computing    | [![Ishom Nabil Umran Alihaq](contact/LinkedIn.png)](https://www.linkedin.com/in/ishom-nabil-22282b315/) |
+| Aurel Elviolita Putri    	    | M204B4KX0735 | Machine Learning   | [![Aurel Elviolita Putri](contact/LinkedIn.png)](https://www.linkedin.com/in/aurel-elviolita-putri) [![Aurelviolita](contact/Github.png)](https://github.com/Aurelviolita)                            |
+| Siti Riza Fatimah Syafrudin       | M815B4KX4181 | Machine Learning   | [![Siti Riza Fatimah Syafrudin](contact/LinkedIn.png)](https://www.linkedin.com/in/sitirizafatimahs/) [![SitiRizaFs](contact/Github.png)](https://github.com/sitirizafs) 		                   |
+| Muhammad Jabir Habibie Batubara   | M453B4KY2922 | Machine Learning   | [![Muhammad Jabir Habibie Batubara](contact/LinkedIn.png)](https://www.linkedin.com/in/muhammadjabirhabibie/) [![SitiRizaFs](contact/Github.png)](https://github.com/Bara67) 		           |
 
         
 
