@@ -1,4 +1,4 @@
-# TMS: Targeted Money Saver (android)
+# TMS: Targeted Money Saver
 
 <p align="justify">
 Using TMS: Targeted Money Saver, users can effortlessly manage their savings by setting financial goals, such as saving for a new gadget they want to buy in the future or saving money for a holiday trip, and tracking their progress daily. The app enables users to upload an image of  they wish to set a goal for and add title, amount and description of the goal. It then identifies the title to get the goal category and allows users to select their desired timeline to achieve the goal. Based on this information, the system calculates and provides the daily savings amount needed to reach the target, which are then visualized through an interactive progress bar. This feature provides real-time feedback, showing how much closer they are to achieving their target and how much more is needed to reach it.
@@ -24,5 +24,6 @@ The application aims to simplify financial management and foster better saving h
 | Learning Path                        | Repository Link    |
 | ------------------------------------ | ------------------ |
 | Mobile Development                   | [TMS-Android](https://github.com/TMS-Targeted-Money-Saver/TMS-Android)   |
-| Cloud Computing (API)                | [TMS-API](https://github.com/TMS-Targeted-Money-Saver/TMS-CC-API) |
-| Cloud Computing (API Model)          | [TMS-MODEL](https://github.com/TMS-Targeted-Money-Saver/TMS-ML-API) | 
+| Cloud Computing (API)                | [TMS-CC-API](https://github.com/TMS-Targeted-Money-Saver/TMS-CC-API) |
+| Cloud Computing (API Model)          | [TMS-MODEL-API](https://github.com/TMS-Targeted-Money-Saver/TMS-ML-API) |
+| Machine Learning                     | [TMS-ML](https://github.com/TMS-Targeted-Money-Saver/TMS-ML) |
